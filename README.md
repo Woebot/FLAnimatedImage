@@ -42,7 +42,7 @@ If using [Swift Package Manager](https://github.com/apple/swift-package-manager)
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/Flipboard/FLAnimatedImage.git", .upToNextMajor(from: "1.0.16"))
+    .package(url: "https://github.com/Flipboard/FLAnimatedImage.git", .upToNextMajor(from: "1.0.17"))
 ],
 targets: [
     .target(name: "TestProject", dependencies: ["FLAnimatedImage""])
